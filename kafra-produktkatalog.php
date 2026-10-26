@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Kafra Produktkatalog
+ * Plugin URI: https://wordpress-plugins-docs.vercel.app/plugins/kafra-produktkatalog
  * Description: Lett AJAX-filtermeny (widget) til WooCommerce sin vanlige produktkatalog.
  * Version: 1.4.1
  * Author: Benjamin
